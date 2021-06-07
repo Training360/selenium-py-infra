@@ -13,6 +13,8 @@ Ezek közül a tesztesetek közül melyikre készítenél és milyen automatizá
 
 A saját forkodban készíts egy `docs/selected_for_automation.txt` fájlt. Ebbe sortörésekkel sorold fel a felfedezett önáló funkciókat.
 
+Most még használhatod a Forkod Github-os web felületét mappák és fileok feltöltésére/szerkesztésére, de később a Git/Github résznél a saját gépeden is megtanulod majd szerkeszteni ezeket a repokat.
+
 PL:
 ```
 A001,CON_TC_004_login, felület automatizázás, mert ismételt végrehajtást tartalmaz
