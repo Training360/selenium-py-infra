@@ -11,6 +11,10 @@ Megtehetjük azt, hogy saját magunk leklónozzuk a projektet, majd módosítva 
 Ha a platform megengedi, akkor ezt egy kattintással is elvégezhetjük. A példában a GitHub weboldalt használom.
 
 ### Forkolás
+A Fork gomb csak akkor jelenik meg a Github weboldalon, ha:
+ * ezt nem tiltotta le az eredeti projekt gazdája
+ * be vagy jelentkezve a saját felhasználóneveddel és jelszavaddal a Github.com-on.
+
 A projekt weboldalán kattintsunk erre a gombra:
 
 ![image](https://user-images.githubusercontent.com/227298/120960768-d0447c80-c75c-11eb-8832-d6355b25ac6a.png)
