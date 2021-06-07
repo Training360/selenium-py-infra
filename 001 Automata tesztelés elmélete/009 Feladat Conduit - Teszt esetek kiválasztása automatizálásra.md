@@ -1,16 +1,17 @@
 # 009 Feladat Conduit - Teszt esetek kiválasztása automatizálásra
 
-A feladatod, hogy lokálisan elindítsd a Conduit app-ot a saját gépeden. A sajét forkodban dolgozz kérlek. Nézzd meg újra az ide vonatkozó videókat, ha nem tiszta, hogy hogyan kell a fork-ot létrehozni. 
-Az indításhoz használd a docker-compose file-t ami a projekttel érkezik.
+A feladatod, hogy készíts az előzőleg összeírt funkciókhoz manuális teszteseteket. Ha kell nézzd vissza a 0. hét videós konzultációit.
 
-Addott pár teszteset a Conduit app-hoz. 
-Ezeket itt találod meg: [https://drive.google.com/drive/folders/1CPilqJvJkAbi3QloM6SKJkxjQY00coLC](https://drive.google.com/drive/folders/1CPilqJvJkAbi3QloM6SKJkxjQY00coLC)
+Használd a nulladik héten megosztott Teszteset sablon-t ha nincs jobb formátum amit használni tudnál.
 
-//TODO további teszt esetekkel bővíteni
+Futtasd le a teszeseteket a manuális lokálisan futó Conduit applikáción.
 
+Az elkészült teszteseteketek kérlek készíts egy mappát a saját forkodban már előzőleg elkészített `docs` mappánban: `docs/testcasses`. Ebbe a mappába add hozzá az összes testcase-t amit készítettél.
+
+## Kérdések amiket meg kell válaszolnod 
 Ezek közül a tesztesetek közül melyikre készítenél és milyen automatizált tesztet? Miért? 
 
-A saját forkodban készíts kérlek egy `docs` mappát és ebbe készíts egy `docs/selected_for_automation.txt` fájlt. Ebbe sortörésekkel sorold fel a felfedezett önáló funkciókat.
+A saját forkodban készíts egy `docs/selected_for_automation.txt` fájlt. Ebbe sortörésekkel sorold fel a felfedezett önáló funkciókat.
 
 PL:
 ```
@@ -23,4 +24,4 @@ Ahol:
 * `felület automatizázás` | `API teszt` | `egyéb teszt` egyike a felsoroltaknak
 * a legutolsó elem a szöveges magyarázat, lehetőleg egy mondatban.
 
-Minden tesztesetre reagálj.
+Minden tesztesetre reagálj. Az is válasz, ha azt írod, hogy nem automatizálható, mert ...
