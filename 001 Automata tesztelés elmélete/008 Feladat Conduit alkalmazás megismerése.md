@@ -49,7 +49,11 @@ Itt találdo az eredeti Conduit repo-t: https://github.com/tjozsa/conduit
 
 Az indításhoz használd a docker-compose file-t ami a projekttel érkezik. A leírást a lemásolt repo README.MD-jében találod.
 
-A feladatod az lesz, hogy fedezzd fel az alkalmazás képességeit. A saját forkodban készíts kérlek egy `docs` mappát és ebbe készíts egy `docs/functions.txt` fájlt. Ebbe sortörésekkel sorold fel a felfedezett önáló funkciókat.
+A feladatod az lesz, hogy fedezzd fel az alkalmazás képességeit. A saját forkodban készíts kérlek egy `docs` mappát és ebbe készíts egy `docs/functions.txt` fájlt. 
+
+Most még használhatod a Forkod Github-os web felületét mappák és fileok feltöltésére/szerkesztésére, de később a Git/Github résznél a saját gépeden is megtanulod majd szerkeszteni ezeket a repokat.
+
+Ebbe sortörésekkel sorold fel a felfedezett önáló funkciókat.
 
 PL:
 ```
