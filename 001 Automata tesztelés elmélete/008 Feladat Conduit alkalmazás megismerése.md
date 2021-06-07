@@ -43,7 +43,9 @@ Példa egy [pull request-re](https://github.com/dotnet/roslyn/pull/31801): lehet
 Github-on a pull request az elsődleges módszer a különböző fejlesztők közös munkájához. Cégen belüli, privát git repók esetében is léteznek hasonló funkciók, amely egy repón belül, a különböző fejlesztési ágak között valósítja meg ugyanezt (ún. merge request - merge-elésre felkérés).
 
 ## Munka a Conduit alkalmazással
-Hozz létre egy Github forkot és innen végig a saját másolatodban dolgozz kérlek. 
+Hozz létre egy Github forkot (ha már van fiókod az is jó) és innen végig a saját másolatodban dolgozz kérlek. 
+
+Itt találdo az eredeti Conduit repo-t: https://github.com/tjozsa/conduit
 
 Az indításhoz használd a docker-compose file-t ami a projekttel érkezik. A leírást a lemásolt repo README.MD-jében találod.
 
