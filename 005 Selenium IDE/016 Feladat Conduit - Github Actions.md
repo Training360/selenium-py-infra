@@ -41,10 +41,11 @@ Chromedriver telepítés
 ```
 
 Side runner futtatása:
+Itt ügyeljünk arra, hogy a lent látható paramétereket átadjuk a futtató környezetnek. Nem akarjuk grafikusan megjeleníteni a böngészőt, mert ezeknek a futtató gépeknek nincs grafikus környzete!
 ```
-- name: Run Tests
-    run: |
-      selenium-side-runner project.side
+ - name: Run Tests
+        run: |
+          selenium-side-runner -c "browserName=chrome goog:chromeOptions.args=[disable-infobars, headless]" test.side
 ```
 
 Beadni a Github Action workflow-t kell.
