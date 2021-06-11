@@ -6,7 +6,7 @@ Használd a nulladik héten megosztott Teszteset sablon-t ha nincs jobb formátu
 
 Futtasd le a teszeseteket a manuális lokálisan futó Conduit applikáción.
 
-Az elkészült teszteseteketek kérlek készíts egy mappát a saját forkodban már előzőleg elkészített `docs` mappánban: `docs/testcasses`. Ebbe a mappába add hozzá az összes testcase-t amit készítettél.
+Az elkészült teszteseteketek kérlek készíts egy mappát a saját forkodban már előzőleg elkészített `docs` mappánban: `docs/testcases`. Ebbe a mappába add hozzá az összes testcase-t amit készítettél.
 
 ## Kérdések amiket meg kell válaszolnod 
 Ezek közül a tesztesetek közül melyikre készítenél és milyen automatizált tesztet? Miért? 
