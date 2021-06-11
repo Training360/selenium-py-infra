@@ -24,7 +24,7 @@ Chrome böngésző telepítése:
 ```
 - name: Install Chrome
   run: |
-    apt install google-chrome-stable
+    sudo apt install google-chrome-stable
 ```
 
 Selenium webdriver telepítő program linuxra
