@@ -5,4 +5,4 @@ A videokban ismertetett példa és az előzőleg létrehozott testproject mappa 
 
 Az automatizálás a testproject mappa tartalmára kell vonatkozzon.
 A cicd-py-example példa projektben használt mymath.py és test_mymath.py fájlokat kell felhasználnod.
-A feladatod, hogy a selenium-py-peldatar-ban ugyan úgy működjön a Github Action workflow mint a selenium-py-peldatar projektben.
+A feladatod, hogy a selenium-py-peldatar-ban ugyan úgy működjön a Github Action workflow mint a cicd-py-example projektben.
