@@ -49,3 +49,5 @@ Itt ügyeljünk arra, hogy a lent látható paramétereket átadjuk a futtató k
 ```
 
 Beadni a Github Action workflow-t kell.
+
+Beadni a következő módon lehet a feladatot: A saját forkodban készíts kérlek egy seleniumide-tests mappát és ebbe készíts egy seleniumide-tests/registration.side fájlt. Ebbe exportáld a Selenium IDE projektedet és commitold azt be. Illetve a szintén a saját conduit forkod-ban készítsd el a .github mappában a github workflow yaml file-t és commitold is be a repoba. Pusholni is kell a github szerverre, hogy lássam.
