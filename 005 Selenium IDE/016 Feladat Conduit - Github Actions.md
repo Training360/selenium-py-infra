@@ -15,7 +15,7 @@ Nodejs telepítés
 
 Selenium Side Runner telepítése:
 ```
-- name Install Selenium Side Runner
+- name: Install Selenium Side Runner
   run: |
     npm install -g selenium-side-runner
 ```
