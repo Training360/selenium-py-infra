@@ -3,6 +3,8 @@ A feladatod, hogy a selenium-py-peldatar forkodat felkészítsd Github Actions f
 
 A videokban ismertetett példa és az előzőleg létrehozott testproject mappa tartalmát kell automatizálásra előkészítened.
 
+Hozz létre egy új projektet a saját forkodban `testproject` néven.
+
 Az automatizálás a `testproject` mappa tartalmára kell vonatkozzon.
 A cicd-py-example példa projektben használt `mymath.py` és `test_mymath.py` fájlokat kell felhasználnod. (ezeket a fileokat másold át a `cicd-py-example` repobol.
 A feladatod, hogy a `selenium-py-peldatar`-ban ugyan úgy működjön a Github Action workflow mint a `cicd-py-example` projektben.
