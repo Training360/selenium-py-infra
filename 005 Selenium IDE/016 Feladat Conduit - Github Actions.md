@@ -1,4 +1,4 @@
-# 016 Feladat Conduit - új post
+# 016 Feladat Conduit - Github actions
 A feladatod, hogy a Conduit app forkodat felkészítsd Github Actions futtatásra és az előzőekben elkészített Selenium IDE projekteket lefuttasd siderunner segítségével.
 
 A `seleniumide-tests` mappát kell használnia a Github Actions workflow-nak. Ebben vannak az előzőleg beküldött `.side` fájljaid. 
